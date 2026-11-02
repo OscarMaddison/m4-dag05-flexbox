@@ -211,3 +211,21 @@ legend {
   font-weight: 700;
   padding: 0 8px;
 }
+
+/*
+header:
+  justify-content:
+    center: Allt hamnar i mitten
+    flex-end: Allt hamnar i slutet
+    space-around: Titeln och listan hamnar en trdjedel in i sidan
+  align-items:
+    flex-end: Menyn hamnar längst ner, titeln oförändrad
+    flex-start: Menyn hamnar längst ner, titeln oförändrad
+footer:
+  justify-content:
+    center: Allt hamnar i mitten
+    flex-end: Allt hamnar i slutet
+    space-around: Copyrighten och adressen hamnar en trdjedel in i sidan
+  align-items:
+    flex-end: Ser ingen skillnad
+    flex-start: Ser ingen skillnad
