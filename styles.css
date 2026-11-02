@@ -16,6 +16,10 @@ header {
   background-color: #5b3a29;
   color: #ffffff;
   padding: 16px 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
 }
 
 header h1 {
@@ -73,6 +77,12 @@ footer {
   background-color: #2b1c14;
   color: #ffffff;
   padding: 24px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  
 }
 
 footer a {
